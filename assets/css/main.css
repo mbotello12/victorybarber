@@ -3601,7 +3601,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(0, 0, 0, .8), rgba(255, 255, 255, 0.01)), url("/images/victory-barber-bg.png");
+			background-image: linear-gradient(to bottom, rgba(0, 0, 0, .3), rgba(0, 0, 0, .85)), url("/images/victory-barber-bg.png");
 			background-size: auto,
  cover;
 			background-position: center,
